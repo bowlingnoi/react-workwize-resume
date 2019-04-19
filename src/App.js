@@ -94,11 +94,12 @@ class App extends Component {
           </div>
 
           <div className="Section Interest-section">
-            <h2 className="font-ms title">Interest</h2>
+            <h2 className="font-ms title">Interests</h2>
 
             <div className="row">
               <div className="col-md-12"><i class="fas fa-ellipsis-h"></i></div>
             </div>
+            
             
           </div>
 
